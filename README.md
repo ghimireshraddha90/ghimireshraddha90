@@ -64,6 +64,21 @@ A full-featured end-to-end test automation framework built using **Playwright** 
 
 ---
 
+### 🏋️ [fithisaab_automation](https://github.com/ghimireshraddha90/fithisaab_automation)
+> **Playwright E2E Automation Suite for FitHisaab — Flutter Web App**
+
+End-to-end automation for **FitHisaab**, a Flutter Web fitness tracking app. This project tackles the unique challenge of automating a **Flutter Web canvas-based UI** — where the DOM is not standard HTML — using a creative accessibility overlay technique.
+
+- 🧠 **Flutter Web Challenge** — Implemented a `Tab / Shift+Tab` keyboard trick to trigger Flutter's `flt-semantics` accessibility layer, making the canvas UI testable
+- 🔐 **Auth Tests** — Login validation, Sign Up navigation, Gym QR bypass, registration form validation
+- 🏗️ **Architecture** — POM design with `LoginPage`, `RegisterPage`, `HomePage`, keyboard fallback strategies
+- 🌐 **Browsers** — Chromium · Firefox · WebKit (Safari)
+
+`Playwright` `TypeScript` `Flutter Web` `Accessibility` `Page Object Model`
+
+---
+
+
 ### 📱 [mobileProgrammingSixthSem](https://github.com/ghimireshraddha90/mobileProgrammingSixthSem)
 > **BCA 6th Semester — Mobile Programming Lab**
 
