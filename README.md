@@ -12,7 +12,7 @@
 
 🔍 QA Automation Engineer passionate about building reliable, scalable test suites  
 🤖 I specialise in **Playwright** end-to-end automation with **TypeScript**  
-🎓 BCA Graduate | Currently working in software quality assurance  
+🎓 BCA UnderGraduate | Currently working in software quality assurance  
 📍 Nepal
 
 </div>
