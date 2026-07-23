@@ -1,97 +1,76 @@
-<div align="center">
+# Hi there, I'm Shraddha Ghimire 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shraddha%20Ghimire&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=QA%20Automation%20Engineer%20%7C%20Playwright%20%7C%20TypeScript&descAlignY=55&descSize=18" />
+**QA Automation Engineer** passionate about building reliable, scalable test automation suites for Web & Mobile Applications.  
+Specializing in **Playwright** (Web E2E) & **Appium + Pytest** (Android Mobile QA) with **TypeScript** and **Python**.
 
-</div>
-
----
-
-<div align="center">
-
-### 👋 Hi there! I'm **Shraddha Ghimire**
-
-🔍 QA Automation Engineer passionate about building reliable, scalable test suites  
-🤖 I specialise in **Playwright** end-to-end automation with **TypeScript**  
-🎓 BCA UnderGraduate | Currently working in software quality assurance  
-📍 Nepal
-
-</div>
+📍 Based in Nepal | 🎓 BCA UnderGraduate | 🧪 Software Quality Assurance & Automation Specialist
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
-
-### 🧪 Testing & Automation
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 💻 Languages & Development
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🗄️ Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
+- **Test Automation & QA:** Playwright, Appium, Pytest, Page Object Model (POM), Accessibility Testing
+- **Languages:** TypeScript, Python, JavaScript, Java, Kotlin, PHP, HTML5, CSS3
+- **Tools & Platforms:** Android Studio, Git, GitHub, Node.js, VS Code, MySQL, Jira
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 [automyc_automation](https://github.com/ghimireshraddha90)
-> **Playwright E2E Automation Suite for Automyc.com**
+### 📱 [fithisaab-mobile-app-automation-qa](https://github.com/DLPlatforms/fithisaab-mobile-app-automation-qa)
+> **Appium & Pytest Mobile Automation Suite for FitHisaab Android App**
 
-A full-featured end-to-end test automation framework built using **Playwright** and **TypeScript**, following the **Page Object Model (POM)** design pattern.
+A robust Android mobile test automation framework engineered using **Python**, **Appium (UiAutomator2)**, **Pytest**, and **Page Object Model (POM)** architecture.
 
-- ✅ **Login Tests** — 7 scenarios including Google OAuth popup handling, forgot password, edge cases
-- ✅ **Registration Tests** — Full multi-step onboarding flow automation (workspace setup, interest selection, team size)
-- ✅ **Dashboard Tests** — Authenticated fixture-based testing
-- 🏗️ **Architecture** — POM design, custom fixtures, shared helpers, sequential cross-browser execution
-- 🌐 **Browsers** — Chromium · Firefox · WebKit (Safari)
+- **Authentication & Security:** Automated login/logout flows, SQL injection resilience, and boundary input security validation.
+- **Multi-Screen UI Coverage:** Comprehensive Page Object classes for Login, Home, Diet, Workout, Shop, and Menu screens.
+- **Secure Config & Dynamic Reporting:** Managed secrets via `.env` configuration; automated self-contained HTML test reporting (`pytest-html`).
+- **Execution:** Automated testing on Android Virtual Devices (Emulators) and physical Android devices.
 
-`Playwright` `TypeScript` `Node.js` `Page Object Model`
+`Appium` `Pytest` `Python` `Android` `UiAutomator2` `Page Object Model` `Security Testing`
 
 ---
 
 ### 🏋️ [fithisaab_automation](https://github.com/ghimireshraddha90/fithisaab_automation)
 > **Playwright E2E Automation Suite for FitHisaab — Flutter Web App**
 
-End-to-end automation for **FitHisaab**, a Flutter Web fitness tracking app. This project tackles the unique challenge of automating a **Flutter Web canvas-based UI** — where the DOM is not standard HTML — using a creative accessibility overlay technique.
+End-to-end automation for **FitHisaab**, a Flutter Web fitness tracking app. Tackles the unique challenge of automating a Flutter Web canvas-based UI using an accessibility overlay technique.
 
-- 🧠 **Flutter Web Challenge** — Implemented a `Tab / Shift+Tab` keyboard trick to trigger Flutter's `flt-semantics` accessibility layer, making the canvas UI testable
-- 🔐 **Auth Tests** — Login validation, Sign Up navigation, Gym QR bypass, registration form validation
-- 🏗️ **Architecture** — POM design with `LoginPage`, `RegisterPage`, `HomePage`, keyboard fallback strategies
-- 🌐 **Browsers** — Chromium · Firefox · WebKit (Safari)
+- **Flutter Web Testing:** Implemented a `Tab / Shift+Tab` keyboard strategy to trigger Flutter's `flt-semantics` accessibility layer, making canvas elements testable.
+- **Auth & Onboarding:** Login validation, Sign Up navigation, Gym QR bypass, and registration form validation.
+- **Architecture:** POM design (`LoginPage`, `RegisterPage`, `HomePage`) with robust fallback keyboard strategies.
+- **Cross-Browser:** Chromium, Firefox, WebKit (Safari).
 
 `Playwright` `TypeScript` `Flutter Web` `Accessibility` `Page Object Model`
 
 ---
 
+### 🤖 [automyc_automation](https://github.com/ghimireshraddha90)
+> **Playwright E2E Automation Suite for Automyc.com**
+
+A full-featured end-to-end test automation framework built using **Playwright** and **TypeScript** following the **Page Object Model (POM)** design pattern.
+
+- **Login & Registration Scenarios:** 7 test scenarios including Google OAuth popup handling, password recovery, and multi-step onboarding.
+- **Dashboard & Core Flows:** Authenticated fixture-based testing across multiple user roles and settings.
+- **Architecture:** Page Object Model design, custom fixtures, shared helpers, and sequential cross-browser execution.
+
+`Playwright` `TypeScript` `Node.js` `Page Object Model`
+
+---
 
 ### 📱 [mobileProgrammingSixthSem](https://github.com/ghimireshraddha90/mobileProgrammingSixthSem)
 > **BCA 6th Semester — Mobile Programming Lab**
 
-Lab exercises and assignments from the Mobile Programming course in my 6th semester of BCA. Covers Android/mobile development concepts and implementations.
+Lab exercises and assignments from the Mobile Programming course covering Android native development concepts and implementations.
 
-`Android` `Mobile Development` `Lab Assignments`
+`Android` `Mobile Development` `Java`
 
 ---
 
 ### 📚 [fifthSem](https://github.com/ghimireshraddha90/fifthSem)
 > **BCA 5th Semester — Academic Projects & Labs**
 
-Collection of coursework, lab assignments, and mini-projects from my 5th semester of BCA, covering various computer science subjects.
+Collection of coursework, lab assignments, and mini-projects covering core computer science subjects.
 
 `Academic` `Lab Work` `BCA`
 
@@ -100,18 +79,18 @@ Collection of coursework, lab assignments, and mini-projects from my 5th semeste
 ### 🏪 [bookshopproject](https://github.com/ghimireshraddha90/bookshopproject)
 > **Book Shop Management System**
 
-A web-based bookshop management project developed as part of academic coursework, covering inventory management, sales, and book records.
+Web-based bookshop management project covering inventory management, sales, and book records.
 
-`PHP` `HTML` `CSS` `MySQL` `Web Development`
+`PHP` `MySQL` `Web Development`
 
 ---
 
 ### 📊 [MISProjectt](https://github.com/ghimireshraddha90/MISProjectt)
 > **Management Information System Project**
 
-A Management Information System (MIS) project covering data management, reporting, and information processing systems for organizational use.
+Management Information System project focusing on data management, reporting, and administrative reporting systems.
 
-`PHP` `MySQL` `MIS` `Web Application`
+`PHP` `MySQL` `MIS`
 
 ---
 
@@ -119,14 +98,8 @@ A Management Information System (MIS) project covering data management, reportin
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ghimireshraddha90&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghimireshraddha90&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ghimireshraddha90&theme=tokyonight&hide_border=true)
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=ghimireshraddha90&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghimireshraddha90&layout=compact&theme=dark&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -134,9 +107,9 @@ A Management Information System (MIS) project covering data management, reportin
 
 ## 🧠 What I'm Currently Working On
 
-- 🔧 Building robust **Playwright automation frameworks** for web applications
-- 📖 Deepening knowledge of **test strategies**, bug tracking, and QA best practices
-- 🌱 Exploring **API testing** and CI/CD integration with automation pipelines
+- 📱 Scaling **Mobile Test Automation** suites using **Appium, Pytest & UiAutomator2**
+- ⚡ Enhancing **Playwright + TypeScript** E2E frameworks with cross-browser execution
+- 🛡️ Integrating security boundary checks & API automation into QA workflows
 
 ---
 
@@ -145,10 +118,10 @@ A Management Information System (MIS) project covering data management, reportin
 ```typescript
 const shraddha = {
   role:       "QA Automation Engineer",
-  currently:  "Building E2E test suites with Playwright + TypeScript",
+  currently:  "Building Web & Mobile E2E Test Suites with Playwright & Appium",
   education:  "BCA Graduate",
-  interests:  ["Test Automation", "Quality Assurance", "Mobile Apps", "Web Dev"],
-  tools:      ["Playwright", "TypeScript", "Jira", "Git", "VS Code"],
+  interests:  ["Test Automation", "Quality Assurance", "Mobile QA", "Security Testing"],
+  tools:      ["Playwright", "Appium", "Pytest", "TypeScript", "Python", "Git", "VS Code"],
   funFact:    "I find bugs before users do! 🐛🔍"
 };
 ```
@@ -157,22 +130,9 @@ const shraddha = {
 
 ## 📫 Connect With Me
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-ghimireshraddha90-181717?style=for-the-badge&logo=github)](https://github.com/ghimireshraddha90)
-[![Email](https://img.shields.io/badge/Email-shraddha.dlsurf%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghimireshraddha90@gmail.com)
-
-</div>
+- **GitHub:** [github.com/ghimireshraddha90](https://github.com/ghimireshraddha90)
+- **Email:** [shraddha.dlsurf@gmail.com](mailto:shraddha.dlsurf@gmail.com)
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
 *"Quality is not an act, it is a habit."* — Aristotle
-
-![Profile Views](https://komarev.com/ghpvc/?username=ghimireshraddha90&color=blueviolet&style=flat-square)
-
-</div>
-
