@@ -160,7 +160,7 @@ const shraddha = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-ghimireshraddha90-181717?style=for-the-badge&logo=github)](https://github.com/ghimireshraddha90)
-[![Email](https://img.shields.io/badge/Email-shraddha.dlsurf%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shraddha.dlsurf@gmail.com)
+[![Email](https://img.shields.io/badge/Email-shraddha.dlsurf%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghimireshraddha90@gmail.com)
 
 </div>
 
