@@ -3,11 +3,11 @@
 **QA Automation Engineer** passionate about building reliable, scalable test automation suites for Web & Mobile Applications.  
 Specializing in **Playwright** (Web E2E) & **Appium + Pytest** (Android Mobile QA) with **TypeScript** and **Python**.
 
-📍 Based in Nepal | 🎓 BCA UnderGraduate | 🧪 Software Quality Assurance & Automation Specialist
+ Based in Nepal | BCA UnderGraduate |  Software Quality Assurance & Automation Specialist
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 - **Test Automation & QA:** Playwright, Appium, Pytest, Page Object Model (POM), Accessibility Testing
 - **Languages:** TypeScript, Python, JavaScript, Java, Kotlin, PHP, HTML5, CSS3
@@ -15,7 +15,7 @@ Specializing in **Playwright** (Web E2E) & **Appium + Pytest** (Android Mobile Q
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 📱 [fithisaab-mobile-app-automation-qa](https://github.com/DLPlatforms/fithisaab-mobile-app-automation-qa)
 > **Appium & Pytest Mobile Automation Suite for FitHisaab Android App**
@@ -31,7 +31,7 @@ A robust Android mobile test automation framework engineered using **Python**, *
 
 ---
 
-### 🏋️ [fithisaab_automation](https://github.com/ghimireshraddha90/fithisaab_automation)
+###  [fithisaab_automation](https://github.com/ghimireshraddha90/fithisaab_automation)
 > **Playwright E2E Automation Suite for FitHisaab — Flutter Web App**
 
 End-to-end automation for **FitHisaab**, a Flutter Web fitness tracking app. Tackles the unique challenge of automating a Flutter Web canvas-based UI using an accessibility overlay technique.
@@ -45,7 +45,7 @@ End-to-end automation for **FitHisaab**, a Flutter Web fitness tracking app. Tac
 
 ---
 
-### 🤖 [automyc_automation](https://github.com/ghimireshraddha90)
+###  [automyc_automation](https://github.com/ghimireshraddha90)
 > **Playwright E2E Automation Suite for Automyc.com**
 
 A full-featured end-to-end test automation framework built using **Playwright** and **TypeScript** following the **Page Object Model (POM)** design pattern.
@@ -58,7 +58,7 @@ A full-featured end-to-end test automation framework built using **Playwright** 
 
 ---
 
-### 📱 [mobileProgrammingSixthSem](https://github.com/ghimireshraddha90/mobileProgrammingSixthSem)
+###  [mobileProgrammingSixthSem](https://github.com/ghimireshraddha90/mobileProgrammingSixthSem)
 > **BCA 6th Semester — Mobile Programming Lab**
 
 Lab exercises and assignments from the Mobile Programming course covering Android native development concepts and implementations.
@@ -67,7 +67,7 @@ Lab exercises and assignments from the Mobile Programming course covering Androi
 
 ---
 
-### 📚 [fifthSem](https://github.com/ghimireshraddha90/fifthSem)
+###  [fifthSem](https://github.com/ghimireshraddha90/fifthSem)
 > **BCA 5th Semester — Academic Projects & Labs**
 
 Collection of coursework, lab assignments, and mini-projects covering core computer science subjects.
@@ -76,7 +76,7 @@ Collection of coursework, lab assignments, and mini-projects covering core compu
 
 ---
 
-### 🏪 [bookshopproject](https://github.com/ghimireshraddha90/bookshopproject)
+###  [bookshopproject](https://github.com/ghimireshraddha90/bookshopproject)
 > **Book Shop Management System**
 
 Web-based bookshop management project covering inventory management, sales, and book records.
@@ -85,7 +85,7 @@ Web-based bookshop management project covering inventory management, sales, and 
 
 ---
 
-### 📊 [MISProjectt](https://github.com/ghimireshraddha90/MISProjectt)
+###  [MISProjectt](https://github.com/ghimireshraddha90/MISProjectt)
 > **Management Information System Project**
 
 Management Information System project focusing on data management, reporting, and administrative reporting systems.
@@ -94,7 +94,7 @@ Management Information System project focusing on data management, reporting, an
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -105,15 +105,15 @@ Management Information System project focusing on data management, reporting, an
 
 ---
 
-## 🧠 What I'm Currently Working On
+##  What I'm Currently Working On
 
-- 📱 Scaling **Mobile Test Automation** suites using **Appium, Pytest & UiAutomator2**
-- ⚡ Enhancing **Playwright + TypeScript** E2E frameworks with cross-browser execution
-- 🛡️ Integrating security boundary checks & API automation into QA workflows
+-  Scaling **Mobile Test Automation** suites using **Appium, Pytest & UiAutomator2**
+-  Enhancing **Playwright + TypeScript** E2E frameworks with cross-browser execution
+-  Integrating security boundary checks & API automation into QA workflows
 
 ---
 
-## 💬 About Me
+##  About Me
 
 ```typescript
 const shraddha = {
@@ -122,16 +122,16 @@ const shraddha = {
   education:  "BCA Graduate",
   interests:  ["Test Automation", "Quality Assurance", "Mobile QA", "Security Testing"],
   tools:      ["Playwright", "Appium", "Pytest", "TypeScript", "Python", "Git", "VS Code"],
-  funFact:    "I find bugs before users do! 🐛🔍"
+  funFact:    "I find bugs before users do!"
 };
 ```
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - **GitHub:** [github.com/ghimireshraddha90](https://github.com/ghimireshraddha90)
-- **Email:** [shraddha.dlsurf@gmail.com](mailto:shraddha.dlsurf@gmail.com)
+- **Email:** [shraddha.dlsurf@gmail.com](mailto:ghimireshraddha90@gmail.com)
 
 ---
 
