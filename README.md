@@ -17,7 +17,7 @@ Specializing in **Playwright** (Web E2E) & **Appium + Pytest** (Android Mobile Q
 
 ## Featured Projects
 
-### 📱 [fithisaab-mobile-app-automation-qa](https://github.com/DLPlatforms/fithisaab-mobile-app-automation-qa)
+###  [fithisaab-mobile-app-automation-qa](https://github.com/DLPlatforms/fithisaab-mobile-app-automation-qa)
 > **Appium & Pytest Mobile Automation Suite for FitHisaab Android App**
 
 A robust Android mobile test automation framework engineered using **Python**, **Appium (UiAutomator2)**, **Pytest**, and **Page Object Model (POM)** architecture.
