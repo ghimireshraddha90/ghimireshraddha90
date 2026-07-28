@@ -131,7 +131,8 @@ const shraddha = {
 ## Connect With Me
 
 - **GitHub:** [github.com/ghimireshraddha90](https://github.com/ghimireshraddha90)
-- **Email:** [shraddha.dlsurf@gmail.com](mailto:ghimireshraddha90@gmail.com)
+- **Email:** [ghimireshraddha90@gmail.com](mailto:ghimireshraddha90@gmail.com)
+- **LinkedIn:**[Shraddha Ghimire](https://www.linkedin.com/in/shraddha-ghimire/)
 
 ---
 
