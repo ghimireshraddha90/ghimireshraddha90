@@ -1,4 +1,4 @@
-# Hi there, I'm Shraddha Ghimire 👋
+# Hi there, I'm Shraddha Ghimire 
 
 **QA Automation Engineer** passionate about building reliable, scalable test automation suites for Web & Mobile Applications.  
 Specializing in **Playwright** (Web E2E) & **Appium + Pytest** (Android Mobile QA) with **TypeScript** and **Python**.
@@ -132,7 +132,7 @@ const shraddha = {
 
 - **GitHub:** [github.com/ghimireshraddha90](https://github.com/ghimireshraddha90)
 - **Email:** [ghimireshraddha90@gmail.com](mailto:ghimireshraddha90@gmail.com)
-- **LinkedIn:**[Shraddha Ghimire](https://www.linkedin.com/in/shraddha-ghimire/)
+- **LinkedIn:**[ Shraddha Ghimire](https://www.linkedin.com/in/shraddha-ghimire/)
 
 ---
 
